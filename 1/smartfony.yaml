@@ -1,0 +1,137 @@
+samples:
+  Galaxy A2 Core:
+    wyświetlacz: 5.0
+    pamięć_RAM: 1.0
+    pamieć_wbudowana: 8.0
+    aparat_foto: 5.0
+    cena: 120.0
+    liczba_opinii: 36.0
+    ocena: '5'
+    status_opinii: mniej niż 50 opinii
+  Galaxy A6s:
+    wyświetlacz: 6.0
+    pamięć_RAM: 6.0
+    pamieć_wbudowana: 64.0
+    aparat_foto: 12.0
+    cena: 300.0
+    liczba_opinii: 86.0
+    ocena: '5'
+    status_opinii: 50-100 opinii
+  Galaxy A9 (2018):
+    wyświetlacz: 6.3
+    pamięć_RAM: 6.0
+    pamieć_wbudowana: 64.0
+    aparat_foto: 24.0
+    cena: 359.0
+    liczba_opinii: 320.0
+    ocena: '4.5'
+    status_opinii: więcej niż 100 opinii
+  Galaxy J2 Core (2020):
+    wyświetlacz: 5.0
+    pamięć_RAM: 1.0
+    pamieć_wbudowana: 16.0
+    aparat_foto: 8.0
+    cena: 80.0
+    liczba_opinii: 17.0
+    ocena: '3'
+    status_opinii: mniej niż 50 opinii
+  Galaxy M10:
+    wyświetlacz: 6.22
+    pamięć_RAM: 2.0
+    pamieć_wbudowana: 16.0
+    aparat_foto: 13.0
+    cena: 135.0
+    liczba_opinii: 107.0
+    ocena: '4'
+    status_opinii: więcej niż 100 opinii
+  Galaxy M20:
+    wyświetlacz: 6.3
+    pamięć_RAM: 3.0
+    pamieć_wbudowana: 32.0
+    aparat_foto: 13.0
+    cena: 300.0
+    liczba_opinii: 358.0
+    ocena: '4'
+    status_opinii: więcej niż 100 opinii
+  Galaxy M30:
+    wyświetlacz: 6.4
+    pamięć_RAM: 3.0
+    pamieć_wbudowana: 32.0
+    aparat_foto: 13.0
+    cena: 300.0
+    liczba_opinii: 316.0
+    ocena: '4'
+    status_opinii: więcej niż 100 opinii
+  Galaxy Tab A 8.0 (2018):
+    wyświetlacz: 8.0
+    pamięć_RAM: 2.0
+    pamieć_wbudowana: 32.0
+    aparat_foto: 8.0
+    cena: 130.0
+    liczba_opinii: 40.0
+    ocena: '4.5'
+    status_opinii: mniej niż 50 opinii
+  Galaxy Tab Advanced2:
+    wyświetlacz: 10.1
+    pamięć_RAM: 3.0
+    pamieć_wbudowana: 32.0
+    aparat_foto: 8.0
+    cena: 200.0
+    liczba_opinii: 8.0
+    ocena: '5'
+    status_opinii: mniej niż 50 opinii
+  Galaxy View2:
+    wyświetlacz: 17.3
+    pamięć_RAM: 3.0
+    pamieć_wbudowana: 64.0
+    aparat_foto: 0.0
+    cena: 660.0
+    liczba_opinii: 50.0
+    ocena: '4'
+    status_opinii: 50-100 opinii
+  Galaxy Xcover FieldPro:
+    wyświetlacz: 5.1
+    pamięć_RAM: 4.0
+    pamieć_wbudowana: 64.0
+    aparat_foto: 12.0
+    cena: 1020.0
+    liczba_opinii: 48.0
+    ocena: '5'
+    status_opinii: mniej niż 50 opinii
+  Galaxy A7 (2018):
+    wyświetlacz: 6.0
+    pamięć_RAM: 4.0
+    pamieć_wbudowana: 64.0
+    aparat_foto: 12.0
+    cena: 309.0
+    liczba_opinii: 223.0
+    ocena: '4'
+    status_opinii: więcej niż 100 opinii
+  Galaxy J4 Core:
+    wyświetlacz: 6.0
+    pamięć_RAM: 1.0
+    pamieć_wbudowana: 16.0
+    aparat_foto: 5.0
+    cena: 150.0
+    liczba_opinii: 87.0
+    ocena: '3.5'
+    status_opinii: 50-100 opinii
+  Galaxy J6+:
+    wyświetlacz: 6.0
+    pamięć_RAM: 3.0
+    pamieć_wbudowana: 32.0
+    aparat_foto: 10.0
+    cena: 230.0
+    liczba_opinii: 198.0
+    ocena: '4'
+    status_opinii: więcej niż 100 opinii
+  Galaxy Note9:
+    wyświetlacz: 6.4
+    pamięć_RAM: 6.0
+    pamieć_wbudowana: 128.0
+    aparat_foto: 12.0
+    cena: 820.0
+    liczba_opinii: 1243.0
+    ocena: '5'
+    status_opinii: więcej niż 100 opinii
+
